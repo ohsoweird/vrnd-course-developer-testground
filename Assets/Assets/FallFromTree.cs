@@ -11,7 +11,7 @@ public class FallFromTree : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.position = new Vector3 (0, 5 + Mathf.Sin (Time.time * 5.0f), 0);
+		transform.position = new Vector3 (0, 6 + Mathf.Sin (Time.time * 5.0f), 0);
 
 	}
 }

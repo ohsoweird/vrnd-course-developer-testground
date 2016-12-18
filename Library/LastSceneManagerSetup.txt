@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ManyObjectMaker.unity
+- path: Assets/Assets/VRND-Course3-Course_Assets/Scenes/Island 1.unity
   isLoaded: 1
   isActive: 1
